@@ -1,7 +1,7 @@
 ## Welcome to my profile! 👩‍💻
 
 ### About me
-Hallo! My name is Fernanda Malta, I am 24 years old with a B.Sc. in Chemistry. I have a deep interest in astronomy and technology and I am an self-taught programmer aiming to do a carreer transition into tech.
+Hallo! My name is Fernanda Malta, I am 25 years old with a B.Sc. in Chemistry. I have a deep interest in astronomy and technology and I am an self-taught programmer aiming to do a carreer transition into tech.
 
 <div align="left">
   <a href="https://github.com/FernandaMalta">
